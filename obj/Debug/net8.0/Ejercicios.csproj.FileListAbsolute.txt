@@ -1,0 +1,14 @@
+/home/wenmejia/Escritorio/Ejercicios Guia Practica N°1 GT01 DRS135/bin/Debug/net8.0/Ejercicios
+/home/wenmejia/Escritorio/Ejercicios Guia Practica N°1 GT01 DRS135/bin/Debug/net8.0/Ejercicios.deps.json
+/home/wenmejia/Escritorio/Ejercicios Guia Practica N°1 GT01 DRS135/bin/Debug/net8.0/Ejercicios.runtimeconfig.json
+/home/wenmejia/Escritorio/Ejercicios Guia Practica N°1 GT01 DRS135/bin/Debug/net8.0/Ejercicios.dll
+/home/wenmejia/Escritorio/Ejercicios Guia Practica N°1 GT01 DRS135/bin/Debug/net8.0/Ejercicios.pdb
+/home/wenmejia/Escritorio/Ejercicios Guia Practica N°1 GT01 DRS135/obj/Debug/net8.0/Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+/home/wenmejia/Escritorio/Ejercicios Guia Practica N°1 GT01 DRS135/obj/Debug/net8.0/Ejercicios.AssemblyInfoInputs.cache
+/home/wenmejia/Escritorio/Ejercicios Guia Practica N°1 GT01 DRS135/obj/Debug/net8.0/Ejercicios.AssemblyInfo.cs
+/home/wenmejia/Escritorio/Ejercicios Guia Practica N°1 GT01 DRS135/obj/Debug/net8.0/Ejercicios.csproj.CoreCompileInputs.cache
+/home/wenmejia/Escritorio/Ejercicios Guia Practica N°1 GT01 DRS135/obj/Debug/net8.0/Ejercicios.dll
+/home/wenmejia/Escritorio/Ejercicios Guia Practica N°1 GT01 DRS135/obj/Debug/net8.0/refint/Ejercicios.dll
+/home/wenmejia/Escritorio/Ejercicios Guia Practica N°1 GT01 DRS135/obj/Debug/net8.0/Ejercicios.pdb
+/home/wenmejia/Escritorio/Ejercicios Guia Practica N°1 GT01 DRS135/obj/Debug/net8.0/Ejercicios.genruntimeconfig.cache
+/home/wenmejia/Escritorio/Ejercicios Guia Practica N°1 GT01 DRS135/obj/Debug/net8.0/ref/Ejercicios.dll
